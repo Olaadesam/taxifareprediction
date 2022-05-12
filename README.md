@@ -1,2 +1,2 @@
 # taxifareprediction
-Predicting taxi fare
+Predicting taxi fare in New York City
